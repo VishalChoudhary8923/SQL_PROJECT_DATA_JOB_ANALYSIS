@@ -52,7 +52,7 @@ ORDER BY jp.salary_year_avg DESC
 LIMIT 10;
 ```
 ![Top Paying Jobs](assets/1_top_paying_jobs.png)
-*Bar grapgh vizualizing the salary for the top 10 salaries for data analysts*
+*Bar graph vizualizing the salary for the top 10 salaries for data analysts*
 
 **Key Insights**
 
@@ -93,7 +93,7 @@ ON sj.skill_id = sd.skill_id
 ORDER BY tpj.salary_year_avg DESC
 ```
 
-![Count of Skills](assets\2_top_paying_job_skills.png)
+![Count_of_Skills](assets/2_top_paying_job_skills.png)
 *Bar Graph Vizualizing the count of skills for the top 10 paying jobs for data analyst.*
 
 **Key Insights**
