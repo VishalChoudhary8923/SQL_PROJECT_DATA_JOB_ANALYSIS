@@ -51,7 +51,7 @@ WHERE
 ORDER BY jp.salary_year_avg DESC
 LIMIT 10;
 ```
-![Top Paying Jobs](assets\1_top_paying_jobs.png)
+![Top Paying Jobs](assets/1_top_paying_jobs.png)
 *Bar grapgh vizualizing the salary for the top 10 salaries for data analysts*
 
 **Key Insights**
